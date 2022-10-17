@@ -1,3 +1,4 @@
 # gradle-project
 test gradle
-![image](https://user-images.githubusercontent.com/61113776/196169544-d06a871e-8aab-4e33-af8c-65ac149ce2c1.png)
+![image](https://user-images.githubusercontent.com/61113776/196171439-2456659c-5bdb-4d4d-b984-eca1b390a344.png)
+
